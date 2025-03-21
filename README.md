@@ -1,3 +1,74 @@
+The Scrum team structure is designed to promote agility, collaboration, and efficiency in project management. Here's a structured breakdown:
+
+### **Scrum Team Roles**
+1. **Product Owner (PO)**  
+   - **Responsibilities**:  
+     - Manages the **Product Backlog** (prioritizes tasks based on business value).  
+     - Defines user stories and acceptance criteria.  
+     - Acts as the liaison between stakeholders and the team.  
+   - **Key Trait**: Single point of accountability for maximizing product value.  
+
+2. **Scrum Master (SM)**  
+   - **Responsibilities**:  
+     - Facilitates Scrum events (Sprint Planning, Daily Stand-ups, etc.).  
+     - Removes impediments blocking the team.  
+     - Coaches the team on Scrum principles and practices.  
+   - **Key Trait**: Servant leader, not a project manager.  
+
+3. **Development Team**  
+   - **Responsibilities**:  
+     - Delivers increments of "Done" product functionality each Sprint.  
+     - Self-organizes to determine how to achieve Sprint goals.  
+     - Cross-functional (includes developers, testers, designers, etc.).  
+   - **Key Traits**:  
+     - **Size**: 3–9 members (ideal for agility).  
+     - **Self-Managing**: No external assignments—chooses how to do the work.  
+
+---
+
+### **Core Principles of Scrum Team Structure**
+1. **Cross-Functionality**  
+   - The team has all skills needed to deliver work without external dependencies (e.g., coding, testing, UX design).  
+
+2. **Self-Organization**  
+   - The team decides *how* to accomplish tasks, not *what* to do (the "what" is defined by the Product Owner).  
+
+3. **Collaboration Over Hierarchy**  
+   - No traditional managers; roles are clearly defined but non-hierarchical.  
+
+---
+
+### **Scrum Events Involving the Team**
+1. **Sprint Planning**  
+   - **Participants**: PO, SM, Development Team.  
+   - **Goal**: Define the Sprint goal and select backlog items.  
+
+2. **Daily Scrum (Stand-up)**  
+   - **Participants**: Development Team (SM ensures the meeting happens).  
+   - **Goal**: Sync on progress and blockers (15-minute timebox).  
+
+3. **Sprint Review**  
+   - **Participants**: PO, SM, Development Team, stakeholders.  
+   - **Goal**: Demo the increment and gather feedback.  
+
+4. **Sprint Retrospective**  
+   - **Participants**: PO, SM, Development Team.  
+   - **Goal**: Reflect on the Sprint and improve processes.  
+
+---
+
+### **Common Misconceptions**
+- ❌ **Scrum Master = Team Lead/Manager**: The SM facilitates but does not assign tasks.  
+- ❌ **Product Owner = Stakeholder Committee**: The PO is a single person, though they *represent* stakeholders.  
+- ❌ **Development Team = Only Developers**: Includes all roles needed to deliver the product (testers, designers, etc.).  
+
+---
+
+### **Why This Structure Works**
+- **Clarity of Roles**: Reduces ambiguity and overlaps.  
+- **Flexibility**: Adapts to changing requirements through iterative Sprints.  
+- **Focus on Value**: The PO ensures alignment with business goals, while the team focuses on execution.  
+
 The Agile Scrum framework is an iterative approach to software development, emphasizing collaboration, flexibility, and continuous improvement. Below is a step-by-step walkthrough of the Scrum cycle using a **user story example**, including High-Level Design (HLD), Low-Level Design (LLD), and deployment.
 
 ---
